@@ -1,2 +1,2 @@
 # Apple-Products-Store
-Projeto de uma loja virtual da Apple desenvolvido com HTML, CSS e JavaScript.
+Landing page de uma loja de produtos Apple desenvolvida com HTML, CSS e JavaScript, com animações e carrossel interativo.
